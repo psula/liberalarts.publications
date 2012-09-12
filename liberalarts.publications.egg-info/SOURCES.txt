@@ -1,0 +1,16 @@
+README.txt
+setup.py
+liberalarts/__init__.py
+liberalarts.publications.egg-info/PKG-INFO
+liberalarts.publications.egg-info/SOURCES.txt
+liberalarts.publications.egg-info/dependency_links.txt
+liberalarts.publications.egg-info/entry_points.txt
+liberalarts.publications.egg-info/namespace_packages.txt
+liberalarts.publications.egg-info/not-zip-safe
+liberalarts.publications.egg-info/paster_plugins.txt
+liberalarts.publications.egg-info/requires.txt
+liberalarts.publications.egg-info/top_level.txt
+liberalarts/publications/__init__.py
+liberalarts/publications/publication.py
+liberalarts/publications/publicationsFolder.py
+liberalarts/publications/tests.py

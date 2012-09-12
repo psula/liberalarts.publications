@@ -1,0 +1,4 @@
+<object name="portal_types">
+ <object name="liberalarts.publications.publication" meta_type="Dexterity FTI" />
+ <object name="liberalarts.publications.publicationsFolder" meta_type="Dexterity FTI" />
+ </object>

@@ -1,0 +1,51 @@
+/***** Liberal Arts Publication Content Type Styles *****/
+
+
+.right_column {
+	float:right;
+	margin: 10px 0 0 10px;
+	border: 1px solid #ccc;
+	padding: 3px;
+	width: 133px;
+	}
+	
+#pub {
+	border-bottom: 1px solid #ccc;
+	overflow: hidden;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+p.pub_details {color: #666;}
+
+.purchase_me {
+	background: #036;
+	border: 1px solid #ccc;
+	padding: 3px;
+	width: 50%;
+	text-align: center;
+	margin: 2px 0;
+	margin: 5px auto;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	display: block;
+	
+}
+
+#content .purchase_me a:link, #content .purchase_me a:visited {
+	color: #fff !important;
+	border-bottom: 0;
+
+}
+
+#search_engine {
+	border: 1px solid #ccc;
+	background: #f2f2f2;
+	margin-bottom: 25px;
+	padding: 10px 10px 0;
+}
+
+#search_engine fieldset {
+	border: none;
+}
